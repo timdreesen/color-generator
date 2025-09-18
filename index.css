@@ -18,6 +18,10 @@ body {
 
 h1 {
     margin-bottom: 0;
+    color: #0D2032;
+}
+p {
+    color: #0D2032;
 }
 
 .generator-wrapper {
